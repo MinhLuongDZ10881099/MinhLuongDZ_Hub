@@ -2,24 +2,7 @@
 
 
 shared.LoaderTitle = "Đăng Ký Kênh MinhLuongDZ";
-shared.LoaderKeyFrames = {
-    [1] = {
-        1,
-        10
-    },
-    [2] = {
-        2,
-        30
-    },
-    [3] = {
-        3,
-        60
-    },
-    [4] = {
-        2,
-        100
-    }
-};
+shared.LoaderKeyFrames = "136444646539613"
 local v2 = {
     LoaderData = {
         Name = shared.LoaderTitle or "A Loader",
